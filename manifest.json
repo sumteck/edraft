@@ -1,0 +1,22 @@
+{
+  "name": "eDraft Office Editor",
+  "short_name": "eDraft",
+  "description": "Write Smart. Draft Better. A professional office document editor.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#e8e8e8",
+  "theme_color": "#2b579a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "./logo192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./logo512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
